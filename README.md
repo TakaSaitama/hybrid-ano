@@ -1,1 +1,8 @@
-# hybrid-ano
+# Hybrid-Ano  
+
+Our approach utilizes a hybrid solution:  
+
+- **Supervised Learning (Deep Forest)** whenever applicable.  
+- **Unsupervised Learning** when supervision is not feasible:  
+  - **Isolation Forest** for water anomaly detection.  
+  - **Diversity-Based Methods** for butterfly analysis.  
